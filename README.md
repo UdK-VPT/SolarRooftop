@@ -1,2 +1,2 @@
 # SolarRooftop
-Repository for the interactive website of th Rooftop building
+Repository for the interactive website of the Rooftop building
